@@ -122,7 +122,7 @@ python main.py
 
 ---
 
-## 🧩 Next Steps (if expanded)
+## 🧩 Next Steps
 
 - Balance the data using class weights or SMOTE
 - Add behavioral and contract-based features
