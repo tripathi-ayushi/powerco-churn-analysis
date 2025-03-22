@@ -141,7 +141,7 @@ This project was completed as part of the **BCG Virtual Internship Program** on 
 ## 👩‍💻 Author
 
 **Ayushi Tripathi**  
-Data Scientist · ML Enthusiast  
+ML Enthusiast  
 [GitHub @tripathi-ayushi](https://github.com/tripathi-ayushi)
 
 ---
